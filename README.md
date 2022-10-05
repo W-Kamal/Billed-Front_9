@@ -24,8 +24,8 @@
 ## Project
 ### Assets
 - Feature description : [Pdf](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DA+JSR_P9/Billed+-+Description+des+fonctionnalite%CC%81s.pdf)
-- Frontend repo : [Github](https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-back)
-- Backend repo : [Github](https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-back)
+- Frontend repo (Origin) : [Github](https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-back)
+- Backend repo (Origin) : [Github](https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-back)
 - Bug report kanban : [Notion](https://www.notion.so/openclassrooms/a7a612fc166747e78d95aa38106a55ec?v=2a8d3553379c4366b6f66490ab8f0b90)
 - E2E test plan : [Docx](https://course.oc-static.com/projects/DA+JSR_P9/Billed+-+E2E+parcours+administrateur.docx)
 
